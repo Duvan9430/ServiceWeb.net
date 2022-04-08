@@ -1,0 +1,18 @@
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\bin\Debug\Cliente.xml
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\obj\Debug\Cliente.Resources.resources
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\obj\Debug\Cliente.vbproj.GenerateResource.Cache
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\obj\Debug\Cliente.xml
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MNM\Desktop\WebServiceVB\Cliente\Cliente\obj\Debug\Cliente.vbprojResolveAssemblyReference.cache
+C:\Users\Duban Javier\Documents\Visual Studio 2013\Projects\WebServiceProyectVB\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Duban Javier\Documents\Visual Studio 2013\Projects\WebServiceProyectVB\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Duban Javier\Documents\Visual Studio 2013\Projects\WebServiceProyectVB\Cliente\Cliente\obj\Debug\Cliente.xml
+C:\Users\Duban Javier\Documents\Visual Studio 2013\Projects\WebServiceProyectVB\Cliente\Cliente\obj\Debug\Cliente.pdb
